@@ -14,6 +14,7 @@ void pascal(int n) {
 
 int main() {
     int n;
+    cout << "Enter number of rows: ";
     cin >> n;
     pascal(n);
     return 0;
